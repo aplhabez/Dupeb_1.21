@@ -13,4 +13,9 @@ will get patched soon but will try to update once i find new dupes or when i am 
 /dupe_item_XXXXXXX
 XXXXXX stands for the item you want to dupe, don't type spaces but type _'s otherwise it will say command invalid
 Don't abuse it too much or i will have to put it at a paid mod :)
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/104317674/188327691-22e4242a-51d5-4cef-be79-748c72211f93.png)
